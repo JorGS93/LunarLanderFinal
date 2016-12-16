@@ -1,0 +1,23 @@
+body,html{height:100%;padding:0px;margin:0px; background-image: url("../img/Fondoestrellaspq.jpg"); background-repeat: repeat;}
+.a{width:100%;height:30%;overflow:hidden;position:fixed;top:0px}
+.b{width:100%;height:100%;overflow:hidden;}
+.c{position:fixed;top:0px;bottom:0px;left:0px;right:0px;display:none;z-index:2;}
+.d{position:fixed;bottom:0px;height:20%;width:100%;}
+#nave{text-align:center;position:fixed;top:10%;width:100%;height:30%; z-index: 1;}
+#nave img{height:100%;}
+#cpanel{color: white;}
+#hidem{text-align: right;}
+#showm{float:right}
+#pausa{width: 25%; height: 15%;}
+#atras{width: 15%; height: 15%; }
+#velocidad{font-size: 60%;}
+#fuel{font-size: 60%;}
+#altura{font-size: 60%;}
+.lista{font-size:70%; list-style: none;}
+.lista2{margin-left: 100px;}
+#menu {color: black; width: 100%; height: 100%; left: 20px; background-color: grey; list-style: none;}
+.titulo{text-align: center; color: white;}
+#atras3{margin-left: 150px;}
+#atras2{width: 25%; height: 15%;}
+ background-image:url("../img/Fondoestrellaspq.jpg"); background-repeat: repeat;
+
