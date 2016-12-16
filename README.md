@@ -39,3 +39,9 @@ Con las fuciones de javascript también se han podido hacer cambios de imagen (c
 -Las opciones de menu como : jugar, intrucciones y about se han añadido iconos del mismo estilo para hacer más visual el juego. Jugar es para reiniciar el juego y las intrucciones y about nos redireccionan a dos html con información sobre el juego y sobre los creadores de este
 
 -La versión de movil contiene los mismos elementos que la versión de escritorio pero estos elementos han sido colocados sitios diferentes.
+
+####FUNCIONALIDADES:
+-La nave se mueve verticalmente al clicar o mantener apretada una tecla.
+-Explota si aterriza a una velocidad superior a 5 m/s.
+-Se "gana" si la nave aterriza a una velocidad inferior a  5m/s.
+-El fuel disminuye pero al llegar a 0 se puede seguir jugando.
